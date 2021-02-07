@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SendKeys": {
+      "commandName": "Project",
+      "commandLineArgs": "--verbose -n pwsh d"
+    }
+  }
+}
